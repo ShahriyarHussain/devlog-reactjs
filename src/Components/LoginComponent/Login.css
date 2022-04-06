@@ -1,0 +1,34 @@
+input {
+  border-bottom: 0.1rem solid;
+  border-color: #3e5c76;
+  margin-bottom: 1rem;
+}
+
+button {
+  border: 0.15rem solid;
+  border-color: #3e5c76;
+  color: #3e5c76;
+  font-weight: bold;
+  margin-top: 1rem;
+}
+
+label {
+  margin-top: 1rem;
+}
+
+.Section-Header {
+  margin-left: 3rem;
+  height: 100%;
+  position: absolute;
+}
+
+.Title-Text {
+  font-weight: bold;
+  font-size: 2.25rem;
+}
+
+.Flex-Col {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

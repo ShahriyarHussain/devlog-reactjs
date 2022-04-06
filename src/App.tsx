@@ -1,12 +1,8 @@
-import React from 'react';
-import './App.css';
+import React from "react";
+import LoginComponent from "./Components/LoginComponent/LoginComponent";
 
 function App() {
-  return (
-    <div className="mt-2 text-center text-3xl font-bold">            
-      Hello world
-    </div>
-  );
+  return <LoginComponent />;
 }
 
 export default App;
